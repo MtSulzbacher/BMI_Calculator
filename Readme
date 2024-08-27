@@ -1,0 +1,22 @@
+Calculadora de IMC
+Este é um simples aplicativo de Calculadora de Índice de Massa Corporal (IMC) desenvolvido em Python utilizando a biblioteca Tkinter para a interface gráfica.
+
+Descrição
+A Calculadora de IMC permite que os usuários insiram seu peso e altura e, em seguida, calculem seu IMC. Dependendo do resultado, o usuário recebe uma classificação, como "Abaixo do peso", "Normal", "Sobrepeso", ou "Obesidade".
+
+Funcionalidades
+Interface gráfica simples e intuitiva.
+Calcula o IMC com base no peso e altura inseridos pelo usuário.
+Exibe a categoria do IMC (Abaixo do peso, Normal, Sobrepeso, Obesidade).
+
+Requisitos
+Python 3.x
+Tkinter (geralmente já incluído com a instalação padrão do Python)
+
+Exemplo de Uso
+Insira seu peso em kg.
+Insira sua altura em metros.
+Clique em "Calcular" para ver o seu IMC e a categoria correspondente.
+
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
